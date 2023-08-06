@@ -1,0 +1,33 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: rgb(71, 67, 67);
+    color: #fff;
+    padding: 20px;
+    
+}
+
+header img#logo {
+    width: 70px;
+    height: 50px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    background-color: rgb(71, 67, 67);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
